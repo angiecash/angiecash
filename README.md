@@ -32,8 +32,6 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 </table>
 
 <br>
-<br>
-<br>
 
 ## Certifications & Skills<br>
 <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+<br>
@@ -41,8 +39,6 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
 
-<br>
-<br>
 <br>
 
 ## Languages & Tools
@@ -55,7 +51,8 @@ Responsive Web Design, Information Technology & Security, Network Administration
 <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="Angela's Top Languages"> -->
-
+ <br>
+ 
 ## GitHub Stats<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="300px" alt="Angela's Top Languages">
 
