@@ -20,7 +20,9 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 </p>
 
 <p align="center" style="color:#BF2928;"><em>Ready to design, develop, and deliver creative solutions.</em></p>
-<!-- ## What I Do -->
+<br>
+
+## What I Do
 <table align="center">
 <tr>
 <td>Web Design & Development
