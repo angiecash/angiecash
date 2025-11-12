@@ -35,7 +35,7 @@ UI/UX Design – Creating intuitive, engaging user experiences
 - CompTIA Security+
 - CompTIA Network+
   
-###Skills: 
+### Skills: 
 Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher">
