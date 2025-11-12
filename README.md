@@ -48,7 +48,10 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 <!-- Languages & Tools -->
 <div align="center">
-  <strong>Languages & Tools</strong><br><br>
+  
+  ## Languages & Tools
+  
+  <br><br>
   <p float="left">
     <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
