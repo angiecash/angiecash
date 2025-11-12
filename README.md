@@ -46,10 +46,11 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 <!-- Languages & Tools -->
 <div align="center">
-
+<!--
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="top">
+  -->
       <strong>Languages & Tools</strong><br><br>
       <p float="left">
         <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -59,13 +60,16 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
         <img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
         <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
       </p>
-    </td>
+<!--    
+</td>
     <td align="center" valign="top" width="340">
+  -->
       <strong>GitHub Stats</strong><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="300px" alt="Angela's Top Languages">
-    </td>
+ <!--   </td>
   </tr>
 </table>
+-->
 
 </div>
 
