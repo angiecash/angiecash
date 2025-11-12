@@ -1,13 +1,5 @@
-<!-- 
-![HEADER](https://capsule-render.vercel.app/api?type=rect&height=100&color=263a5a&text=Angela%20Cash&desc=Web%20Developer&descSize=15&fontSize=40&descAlignY=68&fontAlignY=40&fontColor=afcee6&animation=fadeIn")
--->
-<!--
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=263a5a&text=Angela%20Cash&desc=Web%20Developer&descSize=15&fontSize=40&descAlignY=68&fontAlignY=40&fontColor=afcee6&animation=fadeIn" alt="Angela Cash" />
-</div>
--->
 <p align="center">
-<img src="/images/banner.jpg" alt="Angela Cash" width="65%">
+<img src="/images/banner.jpg" alt="Angela Cash" width="70%">
 <br>
 <a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn")>
