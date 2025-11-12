@@ -28,6 +28,8 @@ What I Do
 
 ---
 
+![angiecash's github stats](https://github-readme-stats.vercel.app/api?username=angiecash&show_icons=true&theme=dracula)
+
 Connect  
 
 <p align="center">
