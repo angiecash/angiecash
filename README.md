@@ -30,7 +30,7 @@ UI/UX Design – Creating intuitive, engaging user experiences
 ![Adobe](https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6)
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)
 
-## Certifications & Skills
+## Certifications
 
 - CompTIA Security+
 - CompTIA Network+
