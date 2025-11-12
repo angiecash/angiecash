@@ -22,7 +22,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 <p align="center" style="color:#BF2928;"><em>Ready to design, develop, and deliver creative solutions.</em></p>
 <br>
 
-## What I Do
+<!-- ## What I Do -->
 <table align="center">
   <tr><td>Web Design & Development</td><td>Building responsive, accessible, and visually cohesive websites</td></tr>
   <tr><td>UI/UX Design</td><td>Creating intuitive, engaging user experiences</td></tr>
@@ -30,7 +30,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 <br>
 
 
-
+<!-- Certs & Skills -->
 <div align="center">
 
 | **Certifications**<br><img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> **Security+**<br><img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> **Network+** | **Skills**<br>Responsive Web Design, Information Technology & Security,<br> Network Administration, Problem Solving, Attention to Detail,<br> Strategic Thinker, Creative Design |
@@ -38,6 +38,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 </div>
 
+<!-- Languages & Tools -->
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0">
