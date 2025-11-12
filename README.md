@@ -31,22 +31,20 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 </tr>
 </table>
 
-<!-- Languages & Tools
-<p float="left">
-<img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
-<img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-</p>
--->
+<br>
+<br>
+<br>
 
 ## Certifications & Skills<br>
 <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+<br>
 <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Network+
 
 Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
+
+<br>
+<br>
+<br>
+
 ## Languages & Tools
 <p float="left">
 <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
