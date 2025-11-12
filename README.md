@@ -47,16 +47,15 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
 
 <p float="right">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="Angela's Top Languages"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="25%" alt="Angela's Top Languages">
-
-
 <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
 <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="Angela's Top Languages"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="25%" alt="Angela's Top Languages">
 </p>
 
 
