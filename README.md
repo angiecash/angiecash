@@ -38,7 +38,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
     <tr>
       <td>Skills</td>
       <td>
-        Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
+        Responsive Web Design, Information Technology & Security,<br> Network Administration, Problem Solving, Attention to Detail,<br> Strategic Thinker, Creative Design
       </td>
     </tr>
   </table>
