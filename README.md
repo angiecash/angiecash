@@ -12,27 +12,31 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 ---
 
 What I Do  
+🎨 **Web Design & Development** – Building responsive, accessible, and visually cohesive websites  
+🧭 **UI/UX Design** – Creating intuitive, engaging user experiences  
 
-Web Design & Development – Building responsive, accessible, and visually cohesive websites  
-UI/UX Design – Creating intuitive, engaging user experiences  
+---
+
+### 🛠️ Tools & Technologies  
+
+![HTML5](https://img.shields.io/badge/HTML5-%23BF2928.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23263A5A.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23BF2928.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=%23AFCEE6)
+![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-Tools & Technologies  
-
-![HTML5](https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=flat-square&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat-square&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat-square&logo=adobecreativecloud&logoColor=%23AFCEE6)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor=white)
-
----
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
 
 Connect  
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-%23263A5A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-%23AFCEE6?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 </p>
