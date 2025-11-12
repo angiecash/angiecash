@@ -1,25 +1,9 @@
-<!--
-**angiecash/angiecash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <span style="font-family:'All Round Gothic';font-weight:bold;color:#BF2928;">$</span>
-  <span style="animation:blink 1s step-end infinite;">_</span>
+  <span style="animation:blink 1 step-end infinite;">_</span>
 </p>
 
-<style>
-@keyframes blink{50%{opacity:0}}
-</style>
+
 
 ```bash
 echo "Salutations, fellow coder." | Angela Cash
