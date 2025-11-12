@@ -29,7 +29,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 </table>
 <br>
 
-| ###Certifications & Skills
+| ### Certifications & Skills
 <br>
 <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+<br>
 <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Network+<br>
