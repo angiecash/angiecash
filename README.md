@@ -48,7 +48,7 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="Angela's Top Languages"> -->
-<img src="https://github-readme-stats.angiecash.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Angela's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Angela's Top Languages">
 
 
 
