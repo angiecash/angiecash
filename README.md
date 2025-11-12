@@ -36,6 +36,12 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Certifications
 
 - CompTIA Security+
