@@ -1,7 +1,7 @@
 <!-- 🎨 Angela Cash | GitHub Profile README -->
 <!-- Inspired by ACash Identity Mark: Brick Ember • Urban Depth • City Glow -->
 
-<h1 align="center" style="color:#263A5A; font-weight:700;">Hello there, I’m <span style="color:#BF2928;">Angela</span></h1>
+<h1 align="center" style="color:#263A5A; font-weight:700;">Hello there, I’m <span style="color:#BF2928;">Angela</span></h1>](https://capsule-render.vercel.app/api?type=rect&height=100&color=263A5A&text=Angela%20Cash&fontColor=AFCEE6&reversal=false&fontSize=30&animation=fadeIn&desc=Web%20Developer&descAlignY=74&descSize=15&fontAlignY=42)
 
 <p align="center" style="color:#263A5A; font-size:16px;">
 Design-minded developer blending creativity, code, and clarity to craft digital experiences that feel as good as they look.  
