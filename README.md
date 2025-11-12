@@ -28,7 +28,7 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
  <td>Creating intuitive, engaging user experiences</td>
 </tr>
 </table>
-
+<center>
 <p float="left">
 <!-- Languages & Tools -->
 <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -38,18 +38,15 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 <img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
 <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
-
-
-
+</center>
 
 ## Certifications & Skills<br>
 <p float="none" align="left" width=100px>
 <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA"> Security+<br>
 <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA"> Network+
 </p>
-<p align="right">
-Responsive Web Design, Information Technology & Security, Network Administration,<br> Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
-</p>
+Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="Angela's Top Languages"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="25%" alt="Angela's Top Languages">
