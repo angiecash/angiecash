@@ -19,11 +19,12 @@ U.S. Air Force Veteran and Senior IT Professional with 20+ years of experience i
 Strategic thinker with the ability to understand and brainstorm creative solutions to complex problems.
 </p>
 
-<p align="center">
 <em>
+<p align="center">
 $$\color{red}\textrm{Ready to design, develop, and deliver creative solutions.}$$
-</em>
+
 </p>
+</em>
 <br>
 
 <!-- ## What I Do -->
