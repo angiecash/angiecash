@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-U.S. Air Force Veteran and Senior IT Professional with 20+ years of experience in Information Technology across system administration, network infrastructure, boundary protection, and operating system applications. 
- Strategic thinker with the ability to understand and brainstorm creative solutions to complex problems.
+U.S. Air Force Veteran and Senior IT Professional with 20+ years of experience in Information Technology across system administration, network infrastructure, boundary protection, and operating system applications.<br>
+Strategic thinker with the ability to understand and brainstorm creative solutions to complex problems.
 </p>
 
 <p align="center" style="color:#BF2928;"><em>Ready to design, develop, and deliver creative solutions.</em></p>
