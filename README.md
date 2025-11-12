@@ -15,7 +15,7 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 
 <p align="center" style="color:#BF2928;"><em>Ready to design, develop, and deliver creative solutions.</em></p>
 
-<b>What I Do</b>
+## What I Do
 
 Web Design & Development – Building responsive, accessible, and visually cohesive websites  
 UI/UX Design – Creating intuitive, engaging user experiences  
@@ -29,10 +29,11 @@ UI/UX Design – Creating intuitive, engaging user experiences
 ![Adobe](https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6)
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)
 
-Certifications & Skills
+## Certifications & Skills
 
-CompTIA Security+
-CompTIA Network+
+- CompTIA Security+
+- CompTIA Network+
+  
 Skills: Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher">
