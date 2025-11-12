@@ -41,8 +41,8 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 -->
 
 ## Certifications & Skills<br>
-<img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="35px"> Security+<br>
-<img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA"> Network+
+<img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+<br>
+<img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Network+
 
 Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
 
