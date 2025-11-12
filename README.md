@@ -30,9 +30,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 <div align="center">
   <table>
     <tr>
-      <td>
-        Certifications
-      </td>
+      <td>Certifications</td>
       <td>
         <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+<br><img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Network+
       </td>
@@ -48,9 +46,9 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 <!-- Languages & Tools -->
 <div align="center">
-  
+    
   ## Languages & Tools
-  
+    
   <p float="left">
     <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
@@ -59,14 +57,10 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
     <img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
     <img src="https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
   </p>
-  
+    
   ## GitHub Stats
-  
+    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="300px" alt="Angela's Top Languages">
- <!--   </td>
-  </tr>
-</table>
--->
 
 </div>
 
