@@ -42,6 +42,18 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        Certifications
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+ and <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Network+
+      </td>
+    </tr>
+  </table>
+</div>
 <!-- Languages & Tools -->
 <div align="center">
 <!--
