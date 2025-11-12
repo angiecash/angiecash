@@ -27,7 +27,7 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 </table>
 
 <!-- Languages & Tools -->
-![HTML5](https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
 ![CSS3](https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=flat&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white)
