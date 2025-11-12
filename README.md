@@ -23,12 +23,12 @@ UI/UX Design – Creating intuitive, engaging user experiences
 
 Languages & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-%23BF2928.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23263A5A.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23BF2928.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=%23AFCEE6)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6)
+![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)
 
 Certifications & Skills
 
