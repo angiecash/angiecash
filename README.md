@@ -4,7 +4,7 @@
 ![HEADER](https://capsule-render.vercel.app/api?type=rect&height=100&color=263a5a&text=Angela%20Cash&desc=Web%20Developer&descSize=15&fontSize=40&descAlignY=68&fontAlignY=40&fontColor=afcee6&animation=fadeIn")
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=263a5a&text=Angela%20Cash&desc=Web%20Developer&descSize=15&fontSize=40&descAlignY=68&fontAlignY=40&fontColor=afcee6&animation=fadeIn" alt="Angela Cash" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=263a5a&text=Angela%20Cash&desc=Web%20Developer&descSize=15&fontSize=40&descAlignY=68&fontAlignY=40&fontColor=afcee6&animation=fadeIn" alt="Angela Cash" />
 </div>
 
 <p align="right">
