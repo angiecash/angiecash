@@ -49,7 +49,13 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
         Certifications
       </td>
       <td>
-        <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+ and <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Network+
+        <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+ <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Network+
+      </td>
+    </tr>
+    <tr>
+      <td>Skills</td>
+      <td>
+        Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail,<br> Strategic Thinker, Creative Design
       </td>
     </tr>
   </table>
