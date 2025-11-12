@@ -20,7 +20,8 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 <tr>
 <td></t>Web Design & Development – Building responsive, accessible, and visually cohesive websites</td>
 <td>UI/UX Design – Creating intuitive, engaging user experiences</td>
-
+</tr>
+</table>
 
 <!-- Languages & Tools -->
 ![HTML5](https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white)
@@ -31,7 +32,7 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher">
-</tr>
+
 ## Certifications
 
 - CompTIA Security+
