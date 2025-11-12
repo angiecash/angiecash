@@ -1,9 +1,8 @@
 <!-- 🎨 Angela Cash | GitHub Profile README -->
 <!-- Inspired by ACash Identity Mark: Brick Ember • Urban Depth • City Glow -->
-<center>
-  
+ 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=100&color=263a5a&text=Angela%20Cash&desc=Web%20Developer&descSize=15&fontSize=40&descAlignY=68&fontAlignY=40&fontColor=afcee6&animation=fadeIn)
-</center>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/" style="text-decoration:none;">
@@ -36,7 +35,8 @@ UI/UX Design – Creating intuitive, engaging user experiences
 - CompTIA Security+
 - CompTIA Network+
   
-Skills: Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
+###Skills: 
+Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail, Strategic Thinker, Creative Design
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher">
 
