@@ -4,8 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=100&color=263a5a&text=Angela%20Cash&desc=Web%20Developer&descSize=15&fontSize=40&descAlignY=68&fontAlignY=40&fontColor=afcee6&animation=fadeIn)
 
 <p align="center" style="color:#263A5A; font-size:16px;">
-Design-minded developer blending creativity, code, and clarity to craft digital experiences that feel as good as they look.  
-Rooted in thoughtful design and clean structure, I bring together aesthetic precision with user-centered functionality.
+CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer with 20+ years of experience in IT concepts, principles, and practices across system administration, network infrastructure, boundary protection, and operating system applications. Strategic thinker with the ability to understand and brainstorm creative solutions to complex problems.
 </p>
 
 <p align="center" style="color:#BF2928;"><em>Ready to design, develop, and deliver creative solutions.</em></p>
