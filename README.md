@@ -7,7 +7,7 @@
 </div>
 -->
 <p align="center">
-<img src="Horizontal RGB.png" alt="Angela Cash">
+<img src="Horizontal RGB.png" alt="Angela Cash" width="65%">
 
 <!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/" style="text-decoration:none;">
