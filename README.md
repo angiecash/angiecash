@@ -22,7 +22,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 <p align="center" style="color:#BF2928;"><em>Ready to design, develop, and deliver creative solutions.</em></p>
 <br>
 
-<p align="center">
+<div align="center">
 ## What I Do
 <table align="center">
 <tr>
@@ -58,7 +58,7 @@ Responsive Web Design, Information Technology & Security, Network Administration
  
 ## GitHub Stats<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="300px" alt="Angela's Top Languages">
-</p>
+</div>
 
 
 
