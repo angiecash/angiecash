@@ -58,6 +58,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
     <img src="https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/-VisualStudio-%235C2D91?style=flat-square&logo=visual-studio" alt="Visual Studio">
   </p>
     
   ## GitHub Stats
