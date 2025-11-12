@@ -12,12 +12,13 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 ---
 
 What I Do  
-🎨 **Web Design & Development** – Building responsive, accessible, and visually cohesive websites  
-🧭 **UI/UX Design** – Creating intuitive, engaging user experiences  
+
+Web Design & Development – Building responsive, accessible, and visually cohesive websites  
+UI/UX Design – Creating intuitive, engaging user experiences  
 
 ---
 
-### 🛠️ Tools & Technologies  
+Tools & Technologies  
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat-square&logo=css3&logoColor=white)
