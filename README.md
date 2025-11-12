@@ -31,11 +31,8 @@ Tools & Technologies
 
 Connect  
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-%23263A5A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:youremail@example.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Email-%23AFCEE6?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 </p>
