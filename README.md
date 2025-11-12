@@ -36,13 +36,6 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 <!-- Certs & Skills -->
 <div align="center">
-
-| Certifications | <img src="https://img.shields.io/badge/CompTIA-C8202F.svg?style=flat&logo=CompTIA&logoColor=white" alt="CompTIA" width="60px"> Security+ and Network+ | 
-| Skills | Responsive Web Design, Information Technology & Security, Network Administration, Problem Solving, Attention to Detail,<br> Strategic Thinker, Creative Design |
-
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td>
@@ -60,28 +53,20 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
     </tr>
   </table>
 </div>
+
 <!-- Languages & Tools -->
 <div align="center">
-<!--
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="top">
-  -->
-      <strong>Languages & Tools</strong><br><br>
-      <p float="left">
-        <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
-        <img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
-        <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-      </p>
-<!--    
-</td>
-    <td align="center" valign="top" width="340">
-  -->
-      <strong>GitHub Stats</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="300px" alt="Angela's Top Languages">
+  <strong>Languages & Tools</strong><br><br>
+  <p float="left">
+    <img src="https://img.shields.io/badge/HTML5-%23BF2928.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-%23263A5A.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-%23AFCEE6.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Figma-%23BF2928.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Adobe%20CC-%23263A5A.svg?style=flat&logo=adobecreativecloud&logoColor=%23AFCEE6" alt="Adobe CC">
+    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </p>
+  <strong>GitHub Stats</strong><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angiecash&show_icons=true&hide_border=true&theme=radical" width="300px" alt="Angela's Top Languages">
  <!--   </td>
   </tr>
 </table>
