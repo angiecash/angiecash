@@ -28,7 +28,7 @@ What I Do
 
 ---
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiecash&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher">
 
 Connect  
 
