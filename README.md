@@ -9,7 +9,7 @@
 <p align="center">
 <img src="/images/banner.jpg" alt="Angela Cash" width="65%">
 <br>
-<a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn")>
 </a>
 </p>
