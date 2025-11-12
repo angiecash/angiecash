@@ -10,7 +10,7 @@
 <img src="/images/banner.jpg" alt="Angela Cash" width="65%">
 <br>
 <a href="https://www.linkedin.com/in/angela-cash-b4ab3a5/" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/LinkedIn-%23263A5A?style=flat&logo=linkedin&logoColor=#BF2928" />
+<img src="https://img.shields.io/badge/LinkedIn-%23263A5A?style=flat&logo=linkedin&logoColor=BF2928" />
 </a>
 </p>
 
