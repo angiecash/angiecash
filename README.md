@@ -15,8 +15,7 @@ CompTIA Security+ certified Air Force Veteran and Senior IT Systems Engineer wit
 </p>
 
 <p align="center" style="color:#BF2928;"><em>Ready to design, develop, and deliver creative solutions.</em></p>
-
-## What I Do
+<!-- ## What I Do -->
 <table align="center">
 <tr>
 <td>Web Design & Development
