@@ -23,6 +23,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 <br>
 
 <div align="center">
+ 
 ## What I Do
 <table align="center">
 <tr>
