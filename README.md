@@ -21,7 +21,7 @@ Strategic thinker with the ability to understand and brainstorm creative solutio
 
 
 <p align="center">
-$$\color{red}\textrm{Ready to design, develop, and deliver creative solutions.}$$
+<em>Ready to design, develop, and deliver creative solutions.</em>
 </p>
 
 <br>
